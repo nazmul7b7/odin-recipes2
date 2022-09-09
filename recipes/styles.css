@@ -1,0 +1,11 @@
+.head {
+    text-align: center;
+    font-size: 30px;
+    color: green;
+}
+
+.head2 {
+    color: white;
+    background-color: green;
+    font-weight: bold;
+}
